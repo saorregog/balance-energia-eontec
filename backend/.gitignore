@@ -1,0 +1,10 @@
+# Files
+.env
+*.xlsx
+*.csv
+*.json
+*.yaml
+
+#Folders
+venv
+__pycache__
